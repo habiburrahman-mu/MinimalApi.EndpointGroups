@@ -1,4 +1,4 @@
-# 📦 MinimalApi.EndpointGroups
+# 📦 MinimalApi.EndpointGroups ![Work in Progress](https://img.shields.io/badge/Project-Work_in_Progress-orange)
 
 > A clean, convention-based Minimal API endpoint discovery & group registration utility for .NET
 > 
